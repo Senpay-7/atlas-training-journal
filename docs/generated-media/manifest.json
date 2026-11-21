@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-10-14",
+  "source": "AI-generated using the built-in image_gen tool; no external photographs used",
+  "toolMode": "builtin",
+  "mediaType": "three-frame photographic storyboard; not video",
+  "status": "human-review-pending",
+  "requiredUiLabel": {
+    "en": "AI draft · 3-frame preview",
+    "ru": "AI-черновик · 3 кадра",
+    "uk": "AI-чернетка · 3 кадри"
+  },
+  "playback": {
+    "frameIndices": [
+      0,
+      1,
+      2,
+      1
+    ],
+    "frameDurationMs": 800,
+    "loop": true,
+    "autoplayWhenReducedMotion": false,
+    "frameLabels": {
+      "en": [
+        "Start",
+        "Lower",
+        "Bottom"
+      ],
+      "ru": [
+        "Начало",
+        "Опускание",
+        "Нижняя точка"
+      ],
+      "uk": [
+        "Початок",
+        "Опускання",
+        "Нижня точка"
+      ]
+    }
+  },
+  "assets": [
+    {
+      "id": "goblet-squat",
+      "path": "assets/demos/goblet-squat-draft-v1.png",
+      "width": 2172,
+      "height": 724,
+      "frameWidth": 724,
+      "frameHeight": 724,
+      "frameCount": 3,
+      "bytes": 1854493,
+      "reviewStatus": "draft-ready-for-user-review",
+      "expertTechniqueReview": false,
+      "eligibleForDraftPreview": true,
+      "sourceOutput": "~/.codex/generated_images/01a13b60-e565-7b73-a4c9-27122ad15e52/exec-cf8f644d-ad82-46ce-8d23-a6612687fe03.png",
+      "notes": [
+        "Visually checked all three panels: full body visible, consistent adult model and dumbbell, distinct squat descent.",
+        "Bottom is deeper than the requested approximately parallel depth; feet and face shift slightly between frames.",
+        "Three discrete poses are not biomechanically continuous footage or a measured exercise tempo."
+      ]
+    },
+    {
+      "id": "pushup",
+      "path": "assets/demos/pushup-review-v2.png",
+      "width": 2172,
+      "height": 724,
+      "frameWidth": 724,
+      "frameHeight": 724,
+      "frameCount": 3,
+      "bytes": 1742865,
+      "reviewStatus": "needs-technique-correction",
+      "expertTechniqueReview": false,
+      "eligibleForDraftPreview": false,
+      "sourceOutput": "~/.codex/generated_images/01a13b60-e565-7b73-a4c9-27122ad15e52/exec-6b35a9c0-530f-4d1e-ab73-b750af7d7e03.png",
+      "rejectedOriginal": "~/.codex/generated_images/01a13b60-e565-7b73-a4c9-27122ad15e52/exec-7f936978-72fd-4c08-8159-4959bcca1d24.png",
+      "notes": [
+        "One targeted repair raised the pelvis and thighs in the bottom panel; original rejected for apparent hip sag.",
+        "Bottom panel still has uncertain floor clearance and forward head positioning; do not use as approved exercise guidance.",
+        "Preserved only for review; do not enable playback in normal exercise detail until corrected and reviewed."
+      ]
+    },
+    {
+      "id": "split-squat",
+      "path": "assets/demos/split-squat-draft-v1.png",
+      "width": 2172,
+      "height": 724,
+      "frameWidth": 724,
+      "frameHeight": 724,
+      "frameCount": 3,
+      "bytes": 1896240,
+      "reviewStatus": "draft-ready-for-user-review",
+      "expertTechniqueReview": false,
+      "eligibleForDraftPreview": true,
+      "sourceOutput": "~/.codex/generated_images/01a13b60-e565-7b73-a4c9-27122ad15e52/exec-1a8ac1f3-6972-4ec3-9e3e-e9242e0e592e.png",
+      "notes": [
+        "Visually checked all panels: same adult model, hands on hips, stationary split stance, front foot planted, rear heel raised, back knee clear of floor.",
+        "Small pose/scale drift remains; bottom depth and joint alignment have not been checked by an exercise professional.",
+        "This is the bodyweight split squat, not a rear-foot-elevated or Bulgarian split squat."
+      ]
+    }
+  ]
+}
+

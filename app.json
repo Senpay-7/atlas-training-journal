@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "ATLAS",
+    "slug": "atlas-training",
+    "version": "0.2.0",
+    "scheme": "atlas",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "app.atlas.training" },
+    "android": { "package": "app.atlas.training" },
+    "web": { "bundler": "metro", "output": "single", "name": "ATLAS Training" },
+    "plugins": ["expo-router", "expo-sqlite", "expo-secure-store", "expo-web-browser"],
+    "experiments": { "typedRoutes": true }
+  }
+}

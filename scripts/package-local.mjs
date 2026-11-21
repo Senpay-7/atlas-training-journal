@@ -1,0 +1,16 @@
+import { cp, mkdir, readFile, writeFile, stat } from 'node:fs/promises';
+import path from 'node:path';
+const root = process.cwd();
+await stat(path.join(root, 'dist/index.html'));
+const release = path.join(root, 'releases', 'atlas-0.2.0');
+await mkdir(release, { recursive: true });
+const nativeBundles = ['android', 'ios'].map(platform => path.join(root, 'dist/_expo/static/js', platform));
+await cp(path.join(root, 'dist'), path.join(release, 'web'), { recursive: true, filter: source => !nativeBundles.some(folder => source === folder || source.startsWith(folder + path.sep)) && source !== path.join(root, 'dist/metadata.json') });
+await cp(path.join(root, 'extension'), path.join(release, 'extension'), { recursive: true });
+await cp(path.join(root, 'supabase'), path.join(release, 'supabase'), { recursive: true });
+await cp(path.join(root, 'docs/LOCAL_RELEASE_RU.md'), path.join(release, 'README_RU.md'));
+await cp(path.join(root, 'docs/CLOUD_SETUP_RU.md'), path.join(release, 'CLOUD_SETUP_RU.md'));
+await cp(path.join(root, 'docs/PLATFORM_AND_PRODUCT_PLAN_RU.md'), path.join(release, 'PRODUCT_PLAN_RU.md'));
+await cp(path.join(root, 'docs/licenses'), path.join(release, 'licenses'), { recursive: true });
+await writeFile(path.join(release, 'manifest.json'), JSON.stringify({ name: 'ATLAS', version: '0.2.0', builtAt: new Date().toISOString(), cloudConfiguration: 'Optional build-time environment; verify the Account panel after building', extension: 'website companion', web: 'HTTP(S) with COOP/COEP required', native: 'Expo source in parent workspace; no APK or IPA included', package: JSON.parse(await readFile('package.json', 'utf8')).version }, null, 2));
+console.log('Packaged: ' + release);

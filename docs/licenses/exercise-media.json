@@ -1,0 +1,606 @@
+[
+  {
+    "exerciseId": "goblet-squat",
+    "slug": "goblet-squat",
+    "title": "Goblet Squat",
+    "equipment": "Dumbbell",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/goblet-squat-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/goblet-squat/frame-1.png",
+        "sha256": "48d4fce078532924e377be1bf7611144884509ea02c925b0351dadbcae207a74",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "squat",
+    "slug": "squat",
+    "title": "Squat",
+    "equipment": "Barbell",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "name": "Everkinetic",
+        "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0122-tension.svg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+      }
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/squat-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/squat/frame-1.png",
+        "sha256": "3a5a4b9f763ca14f55dcca65dcde87acf88d6e5e538367fd8aa9c2a5a02e191c",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": {
+            "name": "Everkinetic",
+            "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0122-tension.svg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "bench",
+    "slug": "bench-press",
+    "title": "Bench Press",
+    "equipment": "Barbell",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "name": "Everkinetic",
+        "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0042-tension.svg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+      }
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/bench-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/bench-press/frame-1.png",
+        "sha256": "d15ef9b2bb07e8fe91f90f53e9fde947d016f11aca05ab681be55df734681c05",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": {
+            "name": "Everkinetic",
+            "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0042-tension.svg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "db-press",
+    "slug": "dumbbell-bench-press",
+    "title": "Dumbbell Bench Press",
+    "equipment": "Dumbbell",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "name": "Everkinetic",
+        "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0055-tension.svg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+      }
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/db-press-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/dumbbell-bench-press/frame-1.png",
+        "sha256": "04d864267fc78d6c65ed09a9691345b55e995154e462113fa982d9dc31f2e575",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": {
+            "name": "Everkinetic",
+            "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0055-tension.svg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "row",
+    "slug": "one-arm-dumbbell-row",
+    "title": "One-Arm Dumbbell Row",
+    "equipment": "Dumbbell",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/row-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/one-arm-dumbbell-row/frame-1.png",
+        "sha256": "8f691a8913d1775a52b1d57731b07934bf5c4ba457af1fef3e6dccb2e94c8fde",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "pulldown",
+    "slug": "lat-pulldown",
+    "title": "Lat Pulldown",
+    "equipment": "Cable",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "name": "Everkinetic",
+        "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0093-tension.svg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+      }
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/pulldown-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/lat-pulldown/frame-1.png",
+        "sha256": "0b6f56011e9095cb1c8b1b4ae24b65b12ccc9debb25543c07b0b128eeb709935",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": {
+            "name": "Everkinetic",
+            "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0093-tension.svg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "rdl",
+    "slug": "dumbbell-romanian-deadlift",
+    "title": "Dumbbell Romanian Deadlift",
+    "equipment": "Dumbbell",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/rdl-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/dumbbell-romanian-deadlift/frame-1.png",
+        "sha256": "a38ea2db48b6d5f10d8f1b9177d65a1b028a7df84cf1d8b275ba62abeade1663",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "ohp",
+    "slug": "standing-dumbbell-press",
+    "title": "Standing Dumbbell Press",
+    "equipment": "Dumbbell",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/ohp-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/standing-dumbbell-press/frame-1.png",
+        "sha256": "b1656853a99842e681a11aeaf09a0a368a94db7ff4f613b5576c64b64df10477",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "lateral",
+    "slug": "lateral-raise",
+    "title": "Lateral Raise",
+    "equipment": "Dumbbell",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "name": "Everkinetic",
+        "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0018-tension.svg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+      }
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/lateral-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/lateral-raise/frame-1.png",
+        "sha256": "ce88e390582311a992ce7c86c9cd7def98c650f6d6581f74ed14a15e07df6d39",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": {
+            "name": "Everkinetic",
+            "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0018-tension.svg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "curl",
+    "slug": "bicep-curl",
+    "title": "Bicep Curl",
+    "equipment": "Dumbbell",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "name": "Everkinetic",
+        "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0224-tension.svg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+      }
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/curl-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/bicep-curl/frame-1.png",
+        "sha256": "895857b03b21dcf1e36557d7c301b8a4635528d245541a59b2615a8d31c51247",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": {
+            "name": "Everkinetic",
+            "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0224-tension.svg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "pushdown",
+    "slug": "tricep-pushdown",
+    "title": "Tricep Pushdown",
+    "equipment": "Cable",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "name": "Everkinetic",
+        "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0205-tension.svg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+      }
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/pushdown-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/tricep-pushdown/frame-1.png",
+        "sha256": "85ef637f58ba23a51668d05187451fd762e23319ac796f3e4b4b40e0404b7af4",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": {
+            "name": "Everkinetic",
+            "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0205-tension.svg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "leg-curl",
+    "slug": "leg-curl",
+    "title": "Leg Curl",
+    "equipment": "Machine",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "name": "Everkinetic",
+        "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0117-tension.svg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+      }
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/leg-curl-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/leg-curl/frame-1.png",
+        "sha256": "e47e5cb69579b93bcd6f18afc38789b91abab446cda651cef6e73b4bbe49f88c",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": {
+            "name": "Everkinetic",
+            "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0117-tension.svg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "calf",
+    "slug": "calf-raise",
+    "title": "Calf Raise",
+    "equipment": "Bodyweight",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/calf-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/calf-raise/frame-1.png",
+        "sha256": "fccd41d7262633b7e021e0103d1331159be2182b8f88824bdba2bbc19055ade7",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "pushup",
+    "slug": "push-up",
+    "title": "Push-up",
+    "equipment": "Bodyweight",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "name": "Everkinetic",
+        "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0077-tension.svg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+      }
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/pushup-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/push-up/frame-1.png",
+        "sha256": "b294834ba2a586492bad7f8bffe5bc4e0478044542499ed9a14a1ef7d1a32333",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": {
+            "name": "Everkinetic",
+            "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0077-tension.svg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "bridge",
+    "slug": "glute-bridge",
+    "title": "Glute Bridge",
+    "equipment": "Bodyweight",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "name": "Everkinetic",
+        "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0109-tension.svg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+      }
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/bridge-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/glute-bridge/frame-1.png",
+        "sha256": "a2e61be9f5649edf831d2ba55118cf8da56c24eb16f750edc552bfad1056a642",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": {
+            "name": "Everkinetic",
+            "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0109-tension.svg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "exerciseId": "deadbug",
+    "slug": "dead-bug",
+    "title": "Dead Bug",
+    "equipment": "Bodyweight",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "checkedOn": "2026-10-12",
+    "changes": "None. PNG files copied byte-for-byte; scaled to fit at display time.",
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/exercises/deadbug-1.png",
+        "url": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/dead-bug/frame-1.png",
+        "sha256": "e96abfed2b700496c7f452cbf17f646d0d620fa01970ad7f680bbdff65249703",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ]
+  }
+]

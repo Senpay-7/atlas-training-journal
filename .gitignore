@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+dist/
+dist-native/
+android/
+ios/
+.tooling/
+coverage/
+*.tsbuildinfo
+*.log
+test-results/
+.env
+.env.*
+!.env.example
+
+releases/

@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "ATLAS Training Companion",
+  "version": "0.2.0",
+  "description": "Open your ATLAS training website. Uses the website account and data; does not run a separate workout database.",
+  "permissions": ["storage"],
+  "action": { "default_title": "ATLAS", "default_popup": "popup.html" },
+  "content_security_policy": { "extension_pages": "script-src 'self'; object-src 'none'" }
+}
